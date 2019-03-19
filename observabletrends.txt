@@ -1,0 +1,7 @@
+Three observable trends based on data
+
+Ride sharing is more commonly used in urban cities as compared to suburban or rural cities. Urban cities accounted for 68.4% of total rides, while suburban cities accounted for 26.3% and rural cities only 5.3%.
+
+Urban cities tend to have a larger range of total number of rides. The average fare in urban areas are lower than suburban and rural cities and also have a smaller range ($20-$29). There are not as many total number of rides in rural cities but the range of the average fare is wider ($24-$43).
+
+There's more drivers in urban cities (80.9%) compared to suburban cities (16.5%) or rural cities (2.6%).
